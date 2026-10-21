@@ -15,11 +15,7 @@ Guia: [Skills na Prática](https://patrick-andrade.github.io/guias/skills-na-pra
 - Traz um catálogo base (cor, forma, tipografia, enfeite, imagem) e um por meio: web, slides e documentos. Cada padrão tem sinal, problema, substituto, exemplo antes e depois e os casos em que não se aplica.
 - Preserva o que a marca, o template institucional ou a norma do projeto definem, mesmo quando aparece num catálogo.
 
-Não trata vocabulário nem prosa ("não é X, é Y", palavras típicas, travessões). Para isso, use junto a [humanizer](https://github.com/blader/humanizer):
-
-```bash
-npx skills add blader/humanizer
-```
+Não trata vocabulário nem prosa ("não é X, é Y", palavras típicas, travessões). Para isso, use junto a [humanizer](https://github.com/blader/humanizer).
 
 A skill também não detecta autoria nem confere fatos e referências.
 
