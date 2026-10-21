@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI slop"
+  short_description: "Tira a cara de IA de sites, slides e documentos"
+  default_prompt: "Use $ai-slop para diagnosticar a cara de IA deste material e me mostrar a lista de tiques antes de editar."
+
+policy:
+  allow_implicit_invocation: false
