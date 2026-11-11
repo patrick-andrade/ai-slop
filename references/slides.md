@@ -44,7 +44,7 @@ Gráficos seguem B17 de `base.md`.
 **Sinal:** "Visão geral", "Contexto", "Resultados", "Próximos passos"; Title Case em português ("Análise De Mercado"); o mesmo molde "Frase: subtítulo" em todo slide.
 **Problema:** o título não diz o que o slide conclui; poderia estar em qualquer deck.
 **Substituto:** título que afirma, em caixa de frase: "A receita caiu 4% no segundo trimestre".
-**Não agir quando:** a convenção do meio pede título temático (aula, por exemplo); então a afirmação vai na primeira linha abaixo do título (primeiro item ou frase de abertura). Fora dessas convenções, prefira o título que afirma.
+**Não agir quando:** a convenção do meio pede título temático (aula, por exemplo); então a primeira linha abaixo do título abre o slide conforme a função dele: a definição num slide de conceito, a pergunta num de modelo, o achado num de evidência, a afirmação num de síntese. Fora dessas convenções, prefira o título que afirma.
 
 ### S5. Arco de molde e slides redundantes
 
